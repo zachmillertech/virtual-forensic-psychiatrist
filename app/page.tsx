@@ -217,6 +217,12 @@ export default function Home() {
                 https://gloriamkardongmd.com
               </a>
             </p>
+            <p className="text-xl font-semibold text-purple-700">
+  3000 El Camino Real<br />
+  4 Palo Alto Square<br />
+  Building 4 Suite 200<br />
+  Palo Alto, CA 94306
+</p>
           </div>
         </section>
       </div>
